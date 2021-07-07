@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/Riftland/vue-pet/compare/v1.0.0...v1.2.0) (2021-07-07)
+
+
+### Other
+
+* **release:** 1.1.0 ([7e39354](https://github.com/Riftland/vue-pet/commit/7e39354aba24f47745c7cd9676b80eb163bbd904))
+
 ## [1.1.0](https://github.com/Riftland/vue-pet/compare/v1.0.0...v1.1.0) (2021-07-07)
 
 ## [1.0.0](https://github.com/Riftland/vue-pet/compare/v0.1.0...v1.0.0) (2021-07-07)
